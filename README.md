@@ -1,7 +1,7 @@
 # LongInteger-LinkedList
 Numbers stored within a revised LinkedList Class with support for basic operations.
 
-Currently Supported Operations:
+Currently Supported Operations:\
 Addition\
 Subtraction\
 Compare To\
