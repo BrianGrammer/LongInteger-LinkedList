@@ -6,4 +6,4 @@ Addition\
 Subtraction\
 Compare To\
 Multiply by 10^x\
-Divide by 10^x\
+Divide by 10^x
